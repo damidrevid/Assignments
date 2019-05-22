@@ -1,8 +1,6 @@
+Algorithm to sort numbers in ascending order.
 
-Here is my algorithm for the assignment given by TheRealNonso on 21st May, 2019.
-
-1) Get the unordered number (9,3,7,5,4.1.8.10.2.6).
-
-2) Import Array from Java library.
-
-3) Person sort operation.
+1) Identify the least and largest number in the pool.
+2) Place the "least" in the head and the largest in the tail.
+3) Fing the next number to the least in the pool.
+4) Find the next number to that...until you arrive at the one next to the tail.
